@@ -1,0 +1,54 @@
+<!-- <body>
+	Header
+		Logo
+		Website Link
+		Header Image
+	Main
+		Blog Heading
+		Blog Image
+		Blog Content
+			Paragraph 1
+			Paragraph 2
+			List
+			Ending paragraph	 -->
+
+	<!-- &nbsp stands for no break space,that means give more than 1 space between 2 words	 -->
+	<!-- <br> tag is not paired tag-->
+
+
+1. To put comment in HTML use tag <!-- Write yourComments here -->
+2. &nbsp stands for no break space, thi is used to get more than one space between the words
+3. To comment something,select whatever you want to comment then use shortcut Ctrl+/ and to comment do the same
+4. <br> tag is not paired tag It is not paired tag
+5. <img> is also singled tag
+6. <a href="https://www.google.com " target="_blank"> This _blank will let open it another tab
+7. div is used to structure web page better and group element at one place
+8. semantic tag are more meaningful tag,this tag dont offer any functionality but it makes more readable form
+a.for navigation we have <nav> </nav>
+b.for header we have <header> </header>
+c.for main we have <main> </main>
+d. for footer we have <footer> </footer>
+e.other semantic tag other than this section,aside and bunch of other
+9. <a href = "#"> Back to Top</a> this # will take us to the top of the web page and # indicates that we are using internal linking
+10.  Block tag- are those which starts in new line-
+Heading tag are block tag that means starts in new line it occupies completes space.ex- heading tag,p tag
+11. Inline tag- are those which dont starts in new line
+ex- image tag,anchor tag
+12. <span>
+           a <sup>2</sup><br>
+           a <sub>i</sub><br>
+           <q> Quoted text</q>
+     </span>
+     Span tag is used for styling when grouped tag,its a inline tag
+ 13. <p>This is a &nbsp; &nbsp; &nbsp; sample text.
+        
+        <p> P tag is used for paragraph
+
+    </p>    
+    This means that first paragraph has ended in line 1 and second one has started in next line
+14. Special characters
+    &lt; p &gt; P tag is used for paragraph.----> <p>
+    She&apos;s   ---> She's
+15.  <table border = "5">
+        <caption>Demo Table</caption>
+        If you want to give some name to your table make sure that you write caption tag just after opening of table tag
